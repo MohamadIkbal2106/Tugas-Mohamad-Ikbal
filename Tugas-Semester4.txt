@@ -1,5 +1,5 @@
 KUMPULAN TUGAS SEMESTER 4
 - Tugas Sistem Informasi Manajemen
 - Tugas Pemrograman Berorientasi Objek
-- Tugas Pemrograman Web
 - Tugas Teknologi Open Source
+- Tugas interaksi manusia dan komputer
