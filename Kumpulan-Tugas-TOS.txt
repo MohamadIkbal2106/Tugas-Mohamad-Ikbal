@@ -4,3 +4,4 @@ KUMPULAN TUGAS TOS
 - Pemrograman Shell 3
 - Pemrograman Shell 4
 - Pengenalan GIT & GITHUB
+Batas Pengumpulan setiap tugas yaitu 1 minggu
