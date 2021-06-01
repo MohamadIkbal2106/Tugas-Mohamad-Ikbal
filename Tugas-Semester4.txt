@@ -3,3 +3,8 @@ KUMPULAN TUGAS SEMESTER 4
 - Tugas Pemrograman Berorientasi Objek
 - Tugas Pemrograman Web
 - Tugas Teknologi Open Source
+  ^Tugas pemrograman shell 1
+  ^Tugas pemrograman shell 2
+  ^tugas pemrograman shell 3
+  ^tugas pemrograman shell 4
+  ^tugas Github
