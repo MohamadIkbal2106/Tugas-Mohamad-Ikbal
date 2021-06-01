@@ -1,0 +1,6 @@
+KUMPULAN TUGAS TOS
+- Pemrograman Shell 1
+- Pemrograman Shell 2
+- Pemrograman Shell 3
+- Pemrograman Shell 4
+- Pengenalan GIT & GITHUB
