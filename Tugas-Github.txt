@@ -5,3 +5,4 @@ TUGAS GITHUB
 - Mengedit README
 - Tambah File baru di branch baru
 - gabungkan branch baru tersebut ke dalam master branch
+- Mengkonfirmasi merge dari branch baru 
