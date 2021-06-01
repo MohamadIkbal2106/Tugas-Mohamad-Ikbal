@@ -2,7 +2,6 @@ TUGAS GITHUB
 - Mendaftar ke Github
 - Buat Repositori
 - Buat File
-- Mengedit README
 - Tambah File baru di branch baru
 - gabungkan branch baru tersebut ke dalam master branch
 - Mengkonfirmasi merge dari branch baru 
