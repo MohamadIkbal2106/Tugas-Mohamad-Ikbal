@@ -3,5 +3,5 @@ TUGAS GITHUB
 - Buat Repositori
 - Buat File
 - Tambah File baru di branch baru
-- gabungkan branch baru tersebut ke dalam master branch
-- Mengkonfirmasi merge dari branch baru 
+- Buat sebuah file yang akan di kerjakan bersama-sama
+- Minta kedua teman tersebut untuk melakukan pull requesst
