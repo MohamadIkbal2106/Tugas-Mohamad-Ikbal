@@ -5,3 +5,6 @@ TUGAS GITHUB
 - Tambah File baru di branch baru
 - gabungkan branch baru tersebut ke dalam master branch
 - Mengkonfirmasi merge dari branch baru 
+BAGIAN 2 
+- Terima salah satu pull request tersebut agar bergabung ke branch master
+- terima lagi pull request kedua
